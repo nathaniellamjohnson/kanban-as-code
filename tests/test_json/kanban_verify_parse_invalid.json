@@ -1,0 +1,41 @@
+{
+    "name": "My First Kanban-As-Code Board",
+    "columns": {
+        "todo": [
+            {
+                "name": "Dummy Card",
+                "notes": "New Notes",
+                "tags": [
+                    "New Tag"
+                ]
+            }
+        ],
+        "inprogress": [
+            {
+                "name": "Dummy Card",
+                "notes": "New Notes",
+                "tags": [asefas
+                    "New Tag"
+                ]
+            }asef
+        ],asef
+        "review": [asef
+            {
+                "name": "Dummy Card",
+                "notes": "New Notes",
+                "tags": [
+                    "New Tag"
+                ]
+            }
+        ],s
+        "done": [
+            {
+                "name": "Dummy Card",
+                "notes": "New Notes",
+                "tags": [a
+                    "New Tag"
+                ]
+            }
+        ]
+    }
+}

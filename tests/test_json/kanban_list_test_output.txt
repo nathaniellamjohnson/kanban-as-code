@@ -1,0 +1,13 @@
+Board: My First Kanban-As-Code Board
+
+Todo:
+	Dummy Card	New Notes	New Tag
+
+Inprogress:
+	Dummy Card	New Notes	New Tag
+
+Review:
+	Dummy Card	New Notes	New Tag
+
+Done:
+	Dummy Card	New Notes	New Tag
